@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="[https://github.com/MJiaping/MJiaping.github.io/blob/main/images/IMG_1202.JPG]" class="floatpic" width="480" height="480">
+<img src="[https://github.com/MJiaping/MJiaping.github.io/blob/main/images/IMG_1202.JPG](https://github.com/MJiaping/MJiaping.github.io/blob/main/IMG_1202.JPG)" class="floatpic" width="480" height="480">
 
 Here is **Jiaping Xu (徐佳苹)**.
 
