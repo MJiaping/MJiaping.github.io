@@ -2,12 +2,12 @@ title: Jiaping Xu
 # tagline: Let's play chess.
 description: Let's play chess.
 #Comment out url when working locally to resolve base urls correctly
-url: https://github.com/MJiaping/MJiaping.github.io
+url: https://MJiaping.github.io
 
 # Owner/author information
 owner:
   name: Jiaping Xu
-  avatar: https://github.com/MJiaping/MJiaping.github.io/blob/main/images/IMG_1202.JPG
+  avatar: https://MJiaping.github.io/blob/main/images/IMG_1202.JPG
 #  bio:
   email: mjiaping@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -34,11 +34,11 @@ links:
   - title: About Me
     url: /
   - title: Publications
-    url:  /publications/index.md
+    url:  /publications/
   - title: Projects
     url: /projects/
   - title: Awards
-    url: /awards/index.html
+    url: /awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
