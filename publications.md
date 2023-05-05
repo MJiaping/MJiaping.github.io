@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: https://MJiaping.github.io/publications/
+permalink: https://MJiaping.github.io/blob/main/publications.md
 title: Publications
 ---
 
