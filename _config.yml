@@ -32,9 +32,9 @@ owner:
 # For external links add external: true
 links:
   - title: About Me
-    url: https://MJiaping.github.io
+    url: /
   - title: Publications
-    url:  https://mjiaping.github.io/publications/
+    url:  /publications/
   - title: Projects
     url: https://mjiaping.github.io/projects/
   - title: Awards
