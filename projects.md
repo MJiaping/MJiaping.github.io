@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Practice Projects
+# Practical Projects
 <br/>
 
 Bird monitoring of the Demonstration Project of Ecological Benefit Compensation for **migratory birds Habitat Environment Reconstruction** in Beilun Estuary Wetland, Guangxi
