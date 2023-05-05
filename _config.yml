@@ -1,5 +1,5 @@
 title: Jiaping Xu
-# tagline: You give me butterflies.
+# tagline: Let's play chess.
 description: Let's play chess.
 #Comment out url when working locally to resolve base urls correctly
 url: https://github.com/MJiaping/MJiaping.github.io
@@ -39,10 +39,6 @@ links:
     url: /projects/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -74,11 +70,11 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: Jiaping
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+# Latest update in 2023/05/05 by Jiaping
+# URL: https://github.com/MJiaping/MJiaping.github.io
