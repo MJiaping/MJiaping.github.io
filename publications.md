@@ -6,15 +6,15 @@ title: Publications
 
 # Publications
 
-Lastest Update: 2nd March 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 5th May 2023&nbsp; 
 
-## Conference Paper
+## Research Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+- [1] **Xu, J.**, & Jiang, A. (2022). Effects of nature contact on children’s willingness to conserve animals under rapid urbanization. Global Ecology and Conservation, 38. https://doi.org/10.1016/j.gecco.2022.e02278
 
-## Working Paper
+- [2] **Xu, J.**, & Jiang, A. (2023). Public Opinions on Stray Cats in China, Evidence from Social Media Data. Animals, 13(3). https://doi.org/10.3390/ani13030457
 
-- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
-- Reshape the Crowning Glory of Maasai Mara. [The latest manuscript](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf) (Competition paper for 2023 MCM Contest)
+- [3] **Xu, J.**, Yan, P., Liu, Z., Qin, H., & Jiang, A. (2023). Avitourism as an aspect of sustainable mountain development: a case study from Southern China. Eco.Mont, 15(1), 38–45. https://doi.org/10.1553/eco.mont-15-1s38
+
+
