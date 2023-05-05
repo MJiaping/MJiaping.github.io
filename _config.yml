@@ -38,7 +38,7 @@ links:
   - title: Projects
     url: /projects/
   - title: Awards
-    url: /awards/
+    url: /awards/index.html
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
