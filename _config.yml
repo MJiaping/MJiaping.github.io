@@ -2,7 +2,7 @@ title: Jiaping Xu
 # tagline: Let's play chess.
 description: Let's play chess.
 #Comment out url when working locally to resolve base urls correctly
-url: https://MJiaping.github.io
+url: https://mjiaping.github.io
 
 # Owner/author information
 owner:
@@ -36,9 +36,9 @@ links:
   - title: Publications
     url:  /publications/
   - title: Projects
-    url: https://mjiaping.github.io/projects/
+    url: /projects/
   - title: Awards
-    url: https://mjiaping.github.io/awards/
+    url: /awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
