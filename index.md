@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jiaping Xu (徐佳苹)**.
 
-I am a postgraduate student majoring in **Landscape and Architecture** at Guangxi University, China (supervised by Aiwu Jiang). During postgraduate study, my research maily focused on biodiversity conservation and science communication.Here is [my CV](https://github.com/MJiaping/MJiaping.github.io/blob/main/CV%20-%20Jiaping.pdf).
+I am a postgraduate student majoring in **Landscape and Architecture** at Guangxi University, China (supervised by Aiwu Jiang). During postgraduate study, my research maily focused on biodiversity conservation and science communication.Here is [my CV](https://MJiaping.github.io/mypaper/IP/CV_Jiaping.pdf).
 
 ## Research Interests
 
