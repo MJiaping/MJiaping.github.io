@@ -12,7 +12,7 @@ I am a postgraduate student majoring in **Landscape and Architecture** at Guangx
 
 ## Research Interests
 
-My current research focuses on biodiversity conservation and interdisciplinary works. My interests are on the **Biodiversity conservation** and **Science communication**. Integrating multiple disciplines to understand biodiversity change, conveying scientific knowledge to the public, and devising solutions for effective biodiversity conservation for solving real-world problems is my research goal.
+My current research focuses on biodiversity conservation and interdisciplinary works. My interests are on the **Biodiversity conservation** and **Science communication**. Integrating multiple disciplines to understand biodiversity change, conveying scientific knowledge to the public, and devising solutions for effective biodiversity conservation are my research goals.
 
 
 ## News and Updates
