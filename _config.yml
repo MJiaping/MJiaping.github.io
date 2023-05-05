@@ -36,9 +36,9 @@ links:
   - title: Publications
     url:  https://mjiaping.github.io/publications/
   - title: Projects
-    url: /projects/
+    url: https://mjiaping.github.io/projects/
   - title: Awards
-    url: /awards/
+    url: https://mjiaping.github.io/awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
