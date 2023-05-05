@@ -4,16 +4,16 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://github.com/MJiaping/MJiaping.github.io/blob/main/index.md</loc>
+      <loc>https://MJiaping.github.io</loc>
     </url>
     <url>
-      <loc>https://github.com/MJiaping/MJiaping.github.io/blob/main/publications.md</loc>
+      <loc>https://mjiaping.github.io/publications/</loc>
     </url>    
     <url>
-      <loc>https://caihanlin.com/projects/</loc>
+      <loc>https://mjiaping.github.io/projects/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/awards/</loc>
+      <loc>https://mjiaping.github.io/awards/</loc>
     </url>   
 
 
