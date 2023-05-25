@@ -4,15 +4,24 @@ layout: page
 
 # About Me
 
-<img src="https://MJiaping.github.io/rphoto.jpg" class="floatpic" width="360" height= auto>
+<img src="https://MJiaping.github.io/images/p_photo.jpg" class="floatpic" width="360" height= auto>
 
 Here is **Jiaping Xu (徐佳苹)**.
 
-I am a postgraduate student majoring in **Landscape and Architecture** at Guangxi University, China (supervised by Aiwu Jiang). During postgraduate study, my research maily focused on biodiversity conservation and science communication.Here is [my CV](https://MJiaping.github.io/mypaper/IP/CV_Jiaping.pdf).
+I am a postgraduate student majoring in **Landscape Architecture** at Guangxi University, China (supervised by Aiwu Jiang). 
+Here is [my CV](https://MJiaping.github.io/mypaper/IP/CV_Jiaping.pdf).
 
 ## Research Interests
 
-My current research focuses on biodiversity conservation and interdisciplinary works. My interests are on the **Biodiversity conservation** and **Science communication**. Integrating multiple disciplines to understand biodiversity change, conveying scientific knowledge to the public, and devising solutions for effective biodiversity conservation are my research goals.
+**Urban ecology**
+<br/>
+**Biodiversity conservation**
+<br/>
+**Interdisciplinary research**
+<br/>
+**Social science computation**
+
+My current research focuses on **biodiversity conservation** and **interdisciplinary works**. I am particularly interested in the preservation of biodiversity and effective science communication. Integrating multiple disciplines to understand biodiversity change, conveying scientific knowledge to the public, and devising solutions for effective biodiversity conservation for solving real-world problems is my research goal.
 
 
 ## News and Updates
