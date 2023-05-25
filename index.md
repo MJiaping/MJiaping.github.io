@@ -20,7 +20,7 @@ Here is [my CV](https://MJiaping.github.io/mypaper/IP/CV_Jiaping.pdf).
 **Interdisciplinary research**
 <br/>
 **Social science computation**
-
+<br/>
 My current research focuses on **biodiversity conservation** and **interdisciplinary works**. I am particularly interested in the preservation of biodiversity and effective science communication. Integrating multiple disciplines to understand biodiversity change, conveying scientific knowledge to the public, and devising solutions for effective biodiversity conservation for solving real-world problems is my research goal.
 
 
