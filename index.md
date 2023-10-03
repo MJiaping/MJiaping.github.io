@@ -4,12 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://MJiaping.github.io/images/p_photo.jpg" class="floatpic" width="360" height= auto>
+<img src="https://MJiaping.github.io/images/p1_photo.jpg" class="floatpic" width="360" height= auto>
 
 Here is **Jiaping Xu (徐佳苹)**.
 
-I am a postgraduate student majoring in **Landscape Architecture** at Guangxi University, China (supervised by Aiwu Jiang). 
-Here is [my CV](https://MJiaping.github.io/mypaper/IP/CV_Jiaping.pdf).
+Currently, I am working as a research assistant in Guangxi Key Laboratory of Forest Ecology and Conservation (Guangxi University) supervised by Aiwu Jiang. Here is [my CV](https://MJiaping.github.io/mypaper/IP/CV_Jiaping.pdf).
 
 ## Research Interests
 
