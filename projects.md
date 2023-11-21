@@ -8,7 +8,7 @@ title: Projects
 <br/>
 **Beihai Coastal Wetland Ecological Protection and Restoration Project** - Resources and Ecological Environment Monitoring from 2022
 <br/>
-Contribution: Review and edit the annual biodiversity report of the reserve
+Contribution: Review and edit the annual biodiversity report
 <br/>
 Draft the project display board and make science communication
 <br/>
